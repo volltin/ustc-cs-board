@@ -16,6 +16,14 @@ copyright: 'Copyright &copy; 2018 - 2018 USTC CS Board Team'
 pages:
   - 首页:
     - 简介: index.md
+  - 计算机网络（张）:
+    - 作业和实验: net/zhang/hw.md
+    - 课程信息: net/zhang/info.md
+    - 联系方式: net/zhang/contact.md
+  - 计算机网络（田）:
+    - 作业和实验: net/tian/hw.md
+    - 课程信息: net/tian/info.md
+    - 联系方式: net/tian/contact.md
 
 # Theme
 theme:
