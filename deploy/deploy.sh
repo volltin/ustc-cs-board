@@ -3,7 +3,7 @@
 
 # Fill this out with the correct user/repo
 USER=volltin
-REPO=ustc-cs-borad
+REPO=ustc-cs-board
 # This probably should match an email for one of your users.
 EMAIL=volltin@live.com
 

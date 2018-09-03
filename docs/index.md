@@ -1,8 +1,8 @@
 Welcome to USTC Computer Science (Grade 2016) Course Board
 
-GitHub Repo: https://github.com/volltin/ustc-cs-borad
+GitHub Repo: https://github.com/volltin/ustc-cs-board
 
-Maintainer: Jiyan He <volltin@live.com>
+Maintainer: Jiyan He <volltin#live.com>
 
 从导航栏点击相应课程可以查看详细信息。
 

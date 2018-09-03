@@ -1,4 +1,4 @@
-# ustc-cs-borad
+# ustc-cs-board
 
 USTC Computer Science (Grade 2016) Course Board
 
